@@ -6,7 +6,7 @@
 -  I’m also studying for my CBAP certification.
 - 👯 I’m looking to collaborate on projects on sustainability and alternative energy solutions.
 - 💬 Ask me about Analytics, Financial Credit, Sales, Funding renewable energy solutions in Africa
-- ⚡ Fun fact: ...
+
 <!--
 **alexandraibukungeorge/alexandraibukungeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
