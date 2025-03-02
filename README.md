@@ -2,7 +2,7 @@
 
 Relevant Certifications: 
  1. Certified Business Analyst Professional (CBAP) Certification (Expected March 2025)
- 2. Databases and SQL for DataScience with Python (IBM)
+ 2. Databases and SQL for Data Science with Python (IBM)
  3. Data Analytics Professional Certificate (Google)
 
 Tech Stack
