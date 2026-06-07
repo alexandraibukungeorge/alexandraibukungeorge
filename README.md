@@ -23,4 +23,4 @@ My work sits at the intersection of three fields that rarely talk to each other:
         - - Writing The Infrastructure Layer on Substack
           - - Consulting on verification architecture, cold chain capital readiness, and NSF/research strategy
            
-            - 📎 [LinkedIn](https://linkedin.com/in/alexandra-george-) | 🌐 [ReNova Systems](https://renova.systems)
+            - 📎 [LinkedIn](https://linkedin.com/in/alexandra-george-) | 🌐 [ReNova Systems](https://renovahq.co)
